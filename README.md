@@ -13,6 +13,8 @@ This is the code for my **D3 Computer Engineering final project** at Telkom Univ
 [![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white)](#requirements)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)](#requirements)
 
+> **Note on the method:** the book presents the Viola-Jones method. The application code in this repository is the final implementation and uses the SSD face detector and MobileNetV2 classifier described below.
+
 ## What the code does
 
 1. **Face detection**: an SSD face detector (OpenCV `res10_300x300`) finds faces in each frame.
