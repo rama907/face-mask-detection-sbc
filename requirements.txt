@@ -1,0 +1,9 @@
+# Diuji pada komputer papan tunggal ARM64 (Raspberry Pi, Python 3.9).
+# Di Raspberry Pi, TensorFlow dan OpenCV lebih mudah lewat wheel/apt khusus ARM64.
+tensorflow==2.7.0
+keras==2.7.0
+numpy==1.19.5
+h5py==3.7.0
+Pillow>=8.1.2
+imutils==0.5.4
+opencv-python
